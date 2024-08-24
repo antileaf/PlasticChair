@@ -1,0 +1,17 @@
+{
+  "modid": "PlasticChairMod",
+  "name": "Plastic Chair",
+  "author_list": [
+    "antileaf", "wolf"
+  ],
+  "description": "Adds a new relic, Plastic Chair, to the game.",
+  "dependencies": [
+    "basemod"
+  ],
+  "optional_dependencies": [
+    "ThisIsPowerMod"
+  ],
+  "version": "1.0.1",
+  "sts_version": "11-29-2020",
+  "update_json": "https://api.github.com/repos/antileaf/PlasticChair/releases/latest"
+}
